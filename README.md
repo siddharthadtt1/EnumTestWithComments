@@ -1,0 +1,2 @@
+# EnumTestWithComments
+Enum with comments 
